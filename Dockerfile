@@ -1,4 +1,4 @@
-FROM debian:10
+FROM debian:bullseye-20230502
 #
 MAINTAINER Allan-Nava
 #
